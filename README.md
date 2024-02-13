@@ -22,7 +22,3 @@ In today's digital age, having a strong online presence is crucial for professio
   - Contact Me
   - Login
   - Signup 
-
-## Target Skills
-
-Upon completing each module, you should have acquired and demonstrated proficiency in various skills including project management, version control with Git, frontend and backend development, test-driven development, and authentication and authorization techniques.
