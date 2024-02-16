@@ -1,0 +1,286 @@
+.Desktop1 {
+    width: 1440px;
+    height: 8908px;
+    position: relative;
+    background:rgb(192, 165, 9);
+}
+
+.Header {
+    width: 483px;
+    height: 56px;
+    left: 939px;
+    top: 19px;
+    position: absolute;
+}
+
+.MadelynTorff {
+    left: 120px;
+    top: 12px;
+    position: absolute;
+}
+
+.Nav {
+    left: 76px;
+    top: 14px;
+    position: absolute;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 48px;
+    display: inline-flex;
+}
+
+.TabDefault {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 2px;
+    display: inline-flex;
+}
+
+.Sobre {
+    color: black;
+    font-size: 18px;
+    font-family: Raleway;
+    font-weight: 500;
+    line-height: 28px;
+    word-wrap: break-word;
+}
+
+.TabDefault:nth-child(2) {
+    border-bottom: 3px black solid;
+}
+
+.TabDefault:nth-child(3) {
+    left: 1339px;
+    top: 33px;
+    position: absolute;
+}
+.Ellipse1 {
+    width: 43px;
+    height: 44px;
+    left: 77px;
+    top: 25px;
+    position: absolute;
+    background: #FDC435;
+    border-radius: 9999px;
+}
+
+.Am, .AloysieMurekatete {
+    position: absolute;
+    color: black;
+    font-size: 18px;
+    font-family: Comfortaa;
+    font-weight: 700;
+    line-height: 32.40px;
+    word-wrap: break-word;
+}
+
+.Am {
+    left: 83px;
+    top: 31px;
+}
+
+.AloysieMurekatete {
+    left: 129px;
+    top: 31px;
+}
+
+.Intro {
+    width: 595px;
+    height: 390px;
+    left: 142px;
+    top: 216px;
+    position: absolute;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 12px;
+    display: inline-flex;
+}
+
+.Content {
+    height: 390px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 32px;
+    display: flex;
+}
+
+.Title {
+    width: 557px;
+    color: black;
+    font-size: 58px;
+    font-family: Playfair Display;
+    font-weight: 700;
+    line-height: 69.60px;
+    word-wrap: break-word;
+}
+
+.Subheadline {
+    height: 218px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 12px;
+    display: flex;
+}
+
+.Text {
+    width: 595px;
+    height: 218px;
+    color: black;
+    font-size: 22px;
+    font-family: Nunito;
+    font-weight: 400;
+    line-height: 33px;
+    word-wrap: break-word;
+}
+
+.Portfolio {
+    left: 599px;
+    top: 1672px;
+    position: absolute;
+    color: #3C2305;
+    font-size: 40px;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: 60px;
+    word-wrap: break-word;
+}
+
+.Frame3359 {
+    width: 230px;
+    height: 71px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    left: 142px;
+    top: 653px;
+    position: absolute;
+    background: rgba(253, 196, 53, 0.60);
+    border-radius: 15px;
+    overflow: hidden;
+    border: 1px black solid;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: inline-flex;
+}
+
+.GetStarted {
+    color: black;
+    font-size: 30px;
+    font-family: Playfair Display;
+    font-weight: 700;
+    line-height: 45px;
+    word-wrap: break-word;
+}
+
+.HelloAndWelcomeIMThrilledToHaveYouHereExploringMyPortfolioThisSpaceIsAReflectionOfMyJourneyExperiencesAndPassionForSoftwareEngineeringAndTechnology {
+    width: 1261px;
+    left: 125px;
+    top: 1791px;
+    position: absolute;
+    color: black;
+    font-size: 26px;
+    font-family: Nunito;
+    font-weight: 400;
+    line-height: 39px;
+    word-wrap: break-word;
+}
+
+.Rectangle20 {
+    width: 416px;
+    height: 466px;
+    left: 907px;
+    top: 258px;
+    position: absolute;
+    border-radius: 50px;
+    backdrop-filter: blur(4px);
+}
+
+.Frame3352, .Frame3353 {
+    position: absolute;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 46px;
+    display: inline-flex;
+}
+
+.AboutMe, .MyExperiences {
+    color: #FDC435;
+    font-size: 22px;
+    font-family: Nunito;
+    font-weight: 800;
+    line-height: 33px;
+    word-wrap: break-word;
+}
+
+.Line1 {
+    width: 381px;
+    height: 0px;
+    border: 1px black solid;
+}
+
+.IAmAPassionateSoftwareEngineeringStudentDedicatedToHoningMySkillsInSoftwareDevelopmentAndProblemSolvingWithAStrongDesireToLeverageTechnologyForPositiveImpactIThriveInCollaborativeEnvironmentsWhereInnovationFlourishes, .InTheRealmOfWebDevelopmentIVeImmersedMyselfInFrontendTechnologiesLikeHtmlCssAndJavascriptCraftingVisuallyAppealingAndUserFriendlyInterfacesIVeDelvedIntoDatabaseManagementUsingMysqlWhereIEquippedMeWithAStrongUnderstandingOfDatabaseArchitectureAndDataManipulationTechniques {
+    width: 523px;
+    height: 164px;
+    color: black;
+    font-size: 22px;
+    font-family: Nunito;
+    font-weight: 400;
+    line-height: 33px;
+    word-wrap: break-word;
+}
+
+.Projects {
+    left: 175px;
+    top: 2035px;
+    position: absolute;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 80px;
+    display: inline-flex;
+}
+
+.Project1 {
+    width: 992px;
+    height: 524px;
+    box-shadow: 0px 6px 64px rgba(112, 144, 176, 0.10);
+    border-radius: 24px;
+    overflow: hidden;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: inline-flex;
+}
+
+.ProjectNfo {
+    width: 496px;
+    height: 524px;
+    padding-top: 146.50px;
+    padding-bottom: 145.50px;
+    padding-left: 50.44px;
+    padding-right: 38.88px;
+    background-image: url(https://via.placeholder.com/496x524);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+}
+
+.BotOSecudRio {
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 24px;
+    border: 1px #FDC435 solid;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: inline-flex;
+}
+
